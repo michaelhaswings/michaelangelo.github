@@ -1,0 +1,44 @@
+.web-brand {
+	color: black;
+
+}
+
+.navigation{
+	background-color: #F1EBEB;
+
+}
+
+.main img{
+	width: 100%;
+}
+
+.tagline{
+padding-top: 57px; 
+padding-left: 115px;
+padding-bottom: 10px;
+}
+
+.headline {
+	background-color: #F1EBEB;
+	padding-top: 30px;
+}
+
+.about{
+	padding-top: 30px;
+	padding-bottom: 5px;
+}
+
+.contact{
+	font-size: 24px;
+	font-family: georgia;
+}
+
+.contact2{
+	font-size: 20px;
+	font-family: georgia;
+}
+
+.slideshow img{
+	max-width: auto;
+	max-height: auto;
+}
